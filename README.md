@@ -1,10 +1,10 @@
 <img width="1391" height="995" alt="image" src="https://github.com/user-attachments/assets/f342fdef-fc72-4b80-bd50-13a32d739054" />
 
 
-# ModZT - Mod Manager for Zoo Tycoon and Zoo Tycoon 2.
+# ModZT - Mod Manager/Launcher for Zoo Tycoon, Zoo Tycoon 2, and OpenZT2. 
 ![GitHub all releases](https://img.shields.io/github/downloads/kaelelson05/modzt2/total.svg)
 
-**ModZT** is a mod manager and launcher for *Zoo Tycoon* and *Zoo Tycoon 2*, built with **Python** and **ttkbootstrap**.  
+**ModZT** is a mod manager and launcher for *Zoo Tycoon*, *Zoo Tycoon 2*, and *OpenZT2* built with **Python** and **ttkbootstrap**.  
 It features threaded background tasks, automatic path detection, persistent settings, and a database for mods and bundles.
 
 ---
@@ -32,7 +32,7 @@ Features of the mod manager include:
 ## Building
 
 ### Requirements
-- Python **3.10+**
+- Python **3.13**
 - Dependencies:
   ```bash
   pip install ttkbootstrap
@@ -74,6 +74,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
 
