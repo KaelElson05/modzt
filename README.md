@@ -31,10 +31,10 @@ Features of the mod manager include:
 
 ## Keyboard Shortcuts
 
-Ctrl+A - Select all mods
-Escape - Deselect all mods
-Delete - Uninstall selected mod(s)
-Enter - Enable selected mod(s)
+- Ctrl+A - Select all mods
+- Escape - Deselect all mods
+- Delete - Uninstall selected mod(s)
+- Enter - Enable selected mod(s)
 
 ## Building
 
@@ -81,6 +81,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
 
