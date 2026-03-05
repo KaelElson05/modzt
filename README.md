@@ -9,6 +9,9 @@ It features threaded background tasks, automatic path detection, persistent sett
 
 ---
 
+<img width="1793" height="1180" alt="Screenshot 2026-01-23 195505" src="https://github.com/user-attachments/assets/55ecaeca-a93f-4157-8f82-4b2b16025f5f" />
+
+
 Features of the mod manager include:
   - Add, enable/disable, remove mods
   - Track mod folders and load order
@@ -82,6 +85,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
 
