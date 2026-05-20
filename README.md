@@ -5,7 +5,7 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/kaelelson05/modzt2/total.svg)
 
 **ModZT** is a mod manager and launcher for *Zoo Tycoon* and *Zoo Tycoon 2* built with **Python** and **ttkbootstrap**.  
-It features threaded background tasks, automatic path detection, persistent settings, and a database for mods and bundles.
+It features threaded background tasks, automatic path detection, persistent settings, and a database for mods and bundles. 
 
 ---
 
@@ -23,12 +23,12 @@ Features of the mod manager include:
   - Auto-detect both games in common installation paths
   - Persistent settings
   - Theme and window size saved between sessions
+  - XInput controller support (expanding to PlayStation controllers soon)
 
   - Threaded background tasks with progress bar
   - Live action log and recent actions list
   - Dark/light themes with one click
 
-  - Real-time save state syncing between host and client session (alpha)
 
 ---
 
