@@ -9,8 +9,7 @@ It features threaded background tasks, automatic path detection, persistent sett
 
 ---
 
-<img width="1793" height="1180" alt="Screenshot 2026-01-23 195505" src="https://github.com/user-attachments/assets/55ecaeca-a93f-4157-8f82-4b2b16025f5f" />
-
+<img width="1611" height="901" alt="image" src="https://github.com/user-attachments/assets/dc083eec-a100-4e05-b4c6-42e459179e66" />
 
 Features of the mod manager include:
   - Add, enable/disable, remove mods
