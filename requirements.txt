@@ -1,0 +1,8 @@
+ttkbootstrap
+Pillow
+requests
+tkinterweb
+imageio
+pygame
+pypresence
+pynput
